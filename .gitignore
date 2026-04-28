@@ -1,0 +1,11 @@
+# Compiled binaries
+*.exe
+*.out
+engine
+
+# Object files
+*.o
+
+# Build artifacts
+*.a
+*.lib
